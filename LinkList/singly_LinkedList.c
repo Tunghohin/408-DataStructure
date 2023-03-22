@@ -1,6 +1,6 @@
 #include <stdlib.h>
 
-typedef int ElemType;
+#define ElemType int;
 
 /*
 链表的定义
